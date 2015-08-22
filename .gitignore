@@ -6,7 +6,10 @@
 
 # Ignore bundler config
 /.bundle
+
+# Ignore node
 /node_modules
+npm-debug.log
 
 # Ignore the build directory
 /build
